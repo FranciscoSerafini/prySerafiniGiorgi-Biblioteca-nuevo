@@ -10,3 +10,15 @@ D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Bib
 D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
 D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
 D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe.config
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.AssemblyReference.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.SuggestedBindingRedirects.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Form1.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.frmConsultaLibros.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Properties.Resources.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.GenerateResource.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb

@@ -1,0 +1,12 @@
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe.config
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.AssemblyReference.cache
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Form1.resources
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.frmConsultaLibros.resources
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Properties.Resources.resources
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.GenerateResource.cache
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+D:\Escritorio\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb

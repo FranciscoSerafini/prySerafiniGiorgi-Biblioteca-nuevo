@@ -26,6 +26,7 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
 
             while (!lectorLibros.EndOfStream)
             {
+                
                 baseLibro[indice] = lectorLibros.ReadLine();
                 indice++;
             }
@@ -37,13 +38,27 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
 
         }
 
-        int indiceRecorrido = 0;
+        
+        
         private void button2_Click(object sender, EventArgs e)
         {
-            if (indiceRecorrido < baseLibro.Length && baseLibro[indiceRecorrido] != null)
+            int indiceRecorrido = 0;
+            
+            
+            if (indiceRecorrido < 30 && baseLibro != null)
             {
                 txtCodigo.Text = baseLibro[indiceRecorrido];
+                txtNombreLibro.Text = baseLibro[indiceRecorrido];
+                indiceRecorrido++;
+
+
+
             }
+           
+            
+
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)

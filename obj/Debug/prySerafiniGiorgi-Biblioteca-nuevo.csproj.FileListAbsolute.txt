@@ -22,3 +22,15 @@ E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-B
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\prySerafiniGiorgi-Biblioteca-nuevo\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe.config
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.AssemblyReference.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.SuggestedBindingRedirects.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Form1.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.frmConsultaLibros.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Properties.Resources.resources
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.GenerateResource.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb

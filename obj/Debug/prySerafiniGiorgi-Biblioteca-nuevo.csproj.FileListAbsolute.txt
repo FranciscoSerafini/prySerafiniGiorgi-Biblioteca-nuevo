@@ -34,3 +34,14 @@ E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADO
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
 E:\ANALISTA EN SISTEMAS\repos\laboratorio-de-programacion-II\REPOSITORIOS CREADOS POR VISUAL 20\09\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe.config
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.AssemblyReference.cache
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Form1.resources
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.frmConsultaLibros.resources
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Properties.Resources.resources
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.GenerateResource.cache
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb

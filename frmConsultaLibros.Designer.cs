@@ -67,6 +67,7 @@
             // 
             // txtCodigoDistri
             // 
+            this.txtCodigoDistri.Enabled = false;
             this.txtCodigoDistri.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoDistri.Location = new System.Drawing.Point(178, 267);
             this.txtCodigoDistri.Name = "txtCodigoDistri";
@@ -75,6 +76,7 @@
             // 
             // txtCodigoAutor
             // 
+            this.txtCodigoAutor.Enabled = false;
             this.txtCodigoAutor.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoAutor.Location = new System.Drawing.Point(178, 230);
             this.txtCodigoAutor.Name = "txtCodigoAutor";
@@ -83,6 +85,7 @@
             // 
             // txtNombreLibro
             // 
+            this.txtNombreLibro.Enabled = false;
             this.txtNombreLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNombreLibro.Location = new System.Drawing.Point(178, 109);
             this.txtNombreLibro.Multiline = true;
@@ -92,6 +95,7 @@
             // 
             // txtCodigoEdito
             // 
+            this.txtCodigoEdito.Enabled = false;
             this.txtCodigoEdito.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoEdito.Location = new System.Drawing.Point(178, 189);
             this.txtCodigoEdito.Name = "txtCodigoEdito";
@@ -100,6 +104,7 @@
             // 
             // txtCodigoLibro
             // 
+            this.txtCodigoLibro.Enabled = false;
             this.txtCodigoLibro.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCodigoLibro.HideSelection = false;
             this.txtCodigoLibro.Location = new System.Drawing.Point(178, 71);
@@ -186,6 +191,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "frmConsultaLibros";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmConsultaLibros";
             this.Load += new System.EventHandler(this.frmConsultaLibros_Load);
             this.ResumeLayout(false);

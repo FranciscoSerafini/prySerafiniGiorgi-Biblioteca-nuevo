@@ -22,5 +22,10 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
             frmConsultaLibros ventanaLibros = new frmConsultaLibros();
             ventanaLibros.ShowDialog();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

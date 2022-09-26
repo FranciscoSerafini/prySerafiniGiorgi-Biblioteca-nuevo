@@ -45,3 +45,15 @@ C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySe
 C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
 C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
 C:\Users\Alumnos\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe.config
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\bin\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.AssemblyReference.cache
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.SuggestedBindingRedirects.cache
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Form1.resources
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.frmConsultaLibros.resources
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi_Biblioteca_nuevo.Properties.Resources.resources
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.GenerateResource.cache
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.csproj.CoreCompileInputs.cache
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.exe
+C:\Users\franc\Source\Repos\prySerafiniGiorgi-Biblioteca-nuevo1.1\obj\Debug\prySerafiniGiorgi-Biblioteca-nuevo.pdb

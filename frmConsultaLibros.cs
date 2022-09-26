@@ -32,35 +32,32 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
 
             while (!lectorLibro.EndOfStream)
             {
-                string[] VecLibro = lectorLibro.ReadLine().Split(separador);
+                string[] VecLibro = lectorLibro.ReadLine().Split(separador);//separador dentro del vecto
 
                 if (i < 20)
                 {
-                    //codigo libro
+                    //cargamos lo de la matriz al vector libro
                     baseLibro[i, 0] = VecLibro[0];
-                    //nombre libro
                     baseLibro[i, 1] = VecLibro[1];
-                    //codigo editorial
-                    //buscar e l nombre de editorial en el archivo EDITORIAL
-
-                    BuscarNombreEditorial(VecLibro[2]);
                     baseLibro[i, 2] = VecLibro[2];
-
-                    //codigo autor
                     baseLibro[i, 3] = VecLibro[3];
-                    //codigo distri
-                    BuscarNombreDistribuidor(VecLibro[4]);
                     baseLibro[i, 4] = VecLibro[4];
+                    //llamamos a los procedimientos que utilizamos
+                    BuscarNombreEditorial(i);
+                    BuscarNombreDistribuidor(i);
                     i++;
 
                 }
             }
+            //mostramos lo que esta en la matriz
             lectorLibro.Close();
-            txtCodigo.Text = baseLibro[0, 0];
+            txtCodigoLibro.Text = baseLibro[0, 0];
             txtNombreLibro.Text = baseLibro[0, 1];
-            //txtCodigoEdito.Text = baseLibro[0, 2];
+            txtCodigoEdito.Text = baseLibro[0, 2];
             txtCodigoAutor.Text = baseLibro[0, 3];
-            //txtCodigoDistri.Text = baseLibro[0, 4];
+            txtCodigoDistri.Text = baseLibro[0, 4];
+            //desabilitamos el boton de retroceso
+            cmdRetroceso.Enabled = false;
 
 
 
@@ -70,79 +67,67 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
         {
 
         }
-        private void buscarCodigoDistribuidora(string codigoDistribuidora)
+        
+        private void BuscarNombreDistribuidor(int numeroDistribuidorBuscado)
         {
-
-        }
-
-
-
-        private void BuscarNombreEditorial(string numeroEditorialBuscado)
-        {
-            StreamReader lectorEditorial = new StreamReader("./EDITORIAL.txt");
-
-            while (!lectorEditorial.EndOfStream)
-            {
-                //necesito comparar el còdigo del LIBRO con el de EDITORIAL
-                //devolver el nombre de EDITORIAL
-
-                string[] vecEditorial = lectorEditorial.ReadLine().Split(separador);
-
-                if (vecEditorial[0] == numeroEditorialBuscado)
-                {
-                    //MessageBox.Show(vecEditorial[1]);
-                    txtCodigoEdito.Text = vecEditorial[1];
-                }
-
-
-            }
-
-            lectorEditorial.Close();
-        }
-
-        private void BuscarNombreDistribuidor(string numeroDistribuidorBuscado)
-        {
-
-            StreamReader lectorDistribuidor = new StreamReader("./EDITORIAL.txt");
+            //leemos el archivo
+            StreamReader lectorDistribuidor = new StreamReader("./DISTRIBUIDORA.txt");
 
             while (!lectorDistribuidor.EndOfStream)
             {
-                //necesito comparar el còdigo del LIBRO con el de EDITORIAL
-                //devolver el nombre de EDITORIAL
+                //comparar el codigo del libro
 
                 string[] vecDistribuidor = lectorDistribuidor.ReadLine().Split(separador);
-
-                if (vecDistribuidor[0] == numeroDistribuidorBuscado)
+                //se cambia el codigo por el nombre correspondiente
+                if (vecDistribuidor[0] == baseLibro[numeroDistribuidorBuscado,4])
                 {
-                    //MessageBox.Show(vecDistribuidor[1]);
-                    txtCodigoDistri.Text = vecDistribuidor[1];
+                    
+                    baseLibro[numeroDistribuidorBuscado,4] = vecDistribuidor[1];//se sobre escribe el nombre de la distribuidor
                 }
-
-
             }
 
             lectorDistribuidor.Close();
         }
 
+
+
+        private void BuscarNombreEditorial(int nombreEditorialBuscado)
+        {
+            StreamReader lectorEditorial = new StreamReader("./EDITORIAL.txt");
+
+            while (!lectorEditorial.EndOfStream)
+            {
+                //comparar el codigo del libro
+
+                string[] vecEditorial = lectorEditorial.ReadLine().Split(separador);
+                //se cambia el codigo por el nombre correspondiente
+                if (vecEditorial[0] == baseLibro[nombreEditorialBuscado, 2])
+                {
+                    //se sobre escribe el nombre de la distribuidor 
+                    baseLibro[nombreEditorialBuscado,2] = vecEditorial[1];
+                }
+            }
+
+            lectorEditorial.Close();
+        }
+        
         private void button2_Click(object sender, EventArgs e)
         {
             indiceRecorrido++;
 
-            txtCodigo.Text = baseLibro[indiceRecorrido, 0];
+            txtCodigoLibro.Text = baseLibro[indiceRecorrido, 0];
             txtNombreLibro.Text = baseLibro[indiceRecorrido, 1];
-
-            BuscarNombreEditorial(baseLibro[indiceRecorrido, 2]);
-            //txtCodigoEdito.Text = baseLibro[indiceRecorrido, 2];
+            txtCodigoEdito.Text = baseLibro[indiceRecorrido, 2];
 
             txtCodigoAutor.Text = baseLibro[indiceRecorrido, 3];
 
-            BuscarNombreDistribuidor(baseLibro[indiceRecorrido, 4]);
-            //txtCodigoDistri.Text = baseLibro[indiceRecorrido, 4];
+            
+            txtCodigoDistri.Text = baseLibro[indiceRecorrido, 4];
             cmdRetroceso.Enabled = true;
 
             if (indiceRecorrido == baseLibro.GetLength(0) - 1)
             {
-                cmdAvanzar.Enabled = false;
+                cmdAvanzar1.Enabled = false;
             }
 
         }
@@ -150,10 +135,11 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
 
         private void button1_Click(object sender, EventArgs e)
         {
-            indiceRecorrido--;
-            if (indiceRecorrido >= 0)
+            indiceRecorrido--;//decrementa el indice
+            if (indiceRecorrido >= 0) // si es menor o igual decrementa
             {
-                txtCodigo.Text = baseLibro[indiceRecorrido, 0];
+                //muestra de los datos hacia atras
+                txtCodigoLibro.Text = baseLibro[indiceRecorrido, 0];
                 txtNombreLibro.Text = baseLibro[indiceRecorrido, 1];
                 txtCodigoEdito.Text = baseLibro[indiceRecorrido, 2];
                 txtCodigoAutor.Text = baseLibro[indiceRecorrido, 3];

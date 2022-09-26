@@ -55,7 +55,7 @@
             // librosToolStripMenuItem
             // 
             this.librosToolStripMenuItem.Name = "librosToolStripMenuItem";
-            this.librosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.librosToolStripMenuItem.Size = new System.Drawing.Size(106, 22);
             this.librosToolStripMenuItem.Text = "Libros";
             this.librosToolStripMenuItem.Click += new System.EventHandler(this.librosToolStripMenuItem_Click);
             // 
@@ -68,6 +68,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);

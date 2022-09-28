@@ -125,7 +125,7 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
             txtCodigoDistri.Text = baseLibro[indiceRecorrido, 4];
             cmdRetroceso.Enabled = true;
 
-            if (indiceRecorrido == baseLibro.GetLength(0) - 1)
+            if (indiceRecorrido == baseLibro.GetLength(0) - 1)//el -1 es para controlor los espacios de la matriz
             {
                 cmdAvanzar1.Enabled = false;
             }

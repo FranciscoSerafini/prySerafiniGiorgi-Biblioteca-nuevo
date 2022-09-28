@@ -111,7 +111,7 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
             lectorEditorial.Close();
         }
         
-        private void button2_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)// no se me cambia el nombre de los botones 
         {
             indiceRecorrido++;
 
@@ -133,7 +133,7 @@ namespace prySerafiniGiorgi_Biblioteca_nuevo
         }
         
 
-        private void button1_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)// no se me cambia el nombre de los botones 
         {
             indiceRecorrido--;//decrementa el indice
             if (indiceRecorrido >= 0) // si es menor o igual decrementa

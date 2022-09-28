@@ -192,7 +192,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmConsultaLibros";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "frmConsultaLibros";
+            this.Text = "Consulta Libros";
             this.Load += new System.EventHandler(this.frmConsultaLibros_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
